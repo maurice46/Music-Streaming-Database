@@ -9,7 +9,7 @@ and triggers.
 
 ## ER Diagram
 
-![ER Diagram](er_diagram.png)
+![ER Diagram](er_diagram.jpeg)
 
 The ER diagram was the starting point for the entire project. Each entity,
 relationship, and cardinality was mapped out before any SQL was written, which
