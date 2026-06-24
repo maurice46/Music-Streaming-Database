@@ -157,7 +157,3 @@ SOURCE 02_insert_data.sql;
 SOURCE 03_queries.sql;
 SOURCE 04_procedure_triggers.sql;
 ```
-
----
-
-## File Structure
