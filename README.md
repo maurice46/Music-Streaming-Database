@@ -1,9 +1,10 @@
 # Music Streaming Database
 
 A relational database for a simplified music streaming service called StreamBase,
-built in MySQL. Covers the full development lifecycle from requirements analysis
-and ER diagram through to physical implementation with views, stored procedures,
-and triggers.
+built in MySQL using the XXAMP software. 
+
+Covers the full development lifecycle from requirements analysis and ER diagram 
+through to physical implementation with views, stored procedures, and triggers.
 
 ---
 
